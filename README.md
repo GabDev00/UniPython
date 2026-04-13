@@ -7,4 +7,4 @@ Algoritmos e lógica de programação desenvolvidos na graduação de Ciência d
 - Manipulação de listas e dicionários
 - Criação de Funções
 - Boas práticas
->>>>>>> 8086b97f6d3d89dd403b18d082849177b2907567
+
