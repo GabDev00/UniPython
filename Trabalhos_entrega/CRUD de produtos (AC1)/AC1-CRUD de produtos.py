@@ -137,7 +137,7 @@ while(opcao != '0'):
     
     elif(opcao == '2'): 
         print()
-        print('ADICIONAR DE PRODUTOS ==================')
+        print('ADICIONAR PRODUTOS ==================')
         nome = input('Nome: ').lower()
         preco = float(input('Preço: '))
         adicionarProduto({'nome': nome, 'preco': preco})
